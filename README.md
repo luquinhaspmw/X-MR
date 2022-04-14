@@ -1,8 +1,6 @@
-<div style="text-align:center; ">
-    <img style="border-radius:10% 1%;box-shadow:0px 0px 20px blue;max-width:100%;" src="X-MR.png" alt="Logo"/>
-</div>
+<img style="width:40%;text-align:right;" src="X-MR.png" alt="Logo"/>
 <br>
-<p style="text-align:justify;font-weight:bold;">Um programa em python baseado no <a src="https://www.kali.org/tools/dirb/">Dirb</a>. Uma ferramenta de crawling muito bacana escrita em Python que nos permite realizar vários tipos de testes sobre <a href="https://docs.hackerone.com/programs/disclosure.html">disclosure</a> de informações em aplicações Web. Basicamente ela faz um bruteforce com vários nomes de pastas e trata o código de retorno das mesmas identificando se elas são acessíveis ou não.</p>
+<p style="text-align:justify;font-weight:bold;">Um programa em python baseado no <a href="https://www.kali.org/tools/dirb/">Dirb</a>. Uma ferramenta de crawling muito bacana escrita em Python que nos permite realizar vários tipos de testes sobre <a href="https://docs.hackerone.com/programs/disclosure.html">disclosure</a> de informações em aplicações Web. Basicamente ela faz um bruteforce com vários nomes de pastas e trata o código de retorno das mesmas identificando se elas são acessíveis ou não.</p>
 <p style="text-align:justify;font-weight:bold;">
 Entretanto fiz apenas por diversão, usem a vontade.
 </p>
