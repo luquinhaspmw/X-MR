@@ -22,13 +22,15 @@ Entretanto fiz apenas por diversão, usem a vontade.
 <li> &#x2714 <a href="https://docs.python.org/3/library/re.html">re</a>
 </ul>
 
->### Instalação das dependencias
+>### Instalação
 ```
+git clone https://github.com/luquinhaspmw/X-MR
 pip install requests
 pip install emoji
 pip install colorama
 ```
 >### Run
 ```
+cd X-MR
 python main.py
 ```
